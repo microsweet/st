@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "SF Mono:pixelsize=26:antialias=true:autohint=true";
+static char *font = "SauceCodePro Nerd Font Mono:pixelsize=26:antialias=true:autohint=true";
 static char *font2[] = { 
+			"SF Mono:pixelsize=26:antialias=true:autohint=true",
 			"SF Pro Display:pixelsize=26:antialias=true:autohint=true",
-			"Source Code Pro:pixelsize=26:antialias=true:autohint=true",
 			"WenQuanYi Micro Hei Mono:pixelsize=26:antialias=true:autohint=true",
 			"DejaVu Sans Mono:pixelsize=26:antialias=true:autohint=true",
 			"Font Awesome 5 Free Solid:pixelsize=26:antialias=true:autohint=true",
