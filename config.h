@@ -5,13 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "SF Mono:pixelsize=18:antialias=true:autohint=true";
+static char *font = "SauceCodePro Nerd Font Mono:pixelsize=18:antialias=true:autohint=true";
 static char *font2[] = { 
 			"SF Pro Display:pixelsize=18:antialias=true:autohint=true",
-			"Source Code Pro:pixelsize=18:antialias=true:autohint=true",
+			"SF Mono:pixelsize=18:antialias=true:autohint=true",
 			"WenQuanYi Micro Hei Mono:pixelsize=18:antialias=true:autohint=true",
-			"DejaVu Sans Mono:pixelsize=18:antialias=true:autohint=true",
 			"Font Awesome 5 Free Solid:pixelsize=18:antialias=true:autohint=true",
+			"DejaVu Sans Mono:pixelsize=18:antialias=true:autohint=true",
 			"MaterialIcons:pixelsize=18:antialias=true:autohint=true",
 			"Icons:pixelsize=18:antialias=true:autohint=true",
 			"HoloLens MDL2 Assets:pixelsize=18:antialias=true:autohint=true" ,
