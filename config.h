@@ -227,10 +227,10 @@ static Shortcut shortcuts[] = {
 	{ ShiftMask,            XK_Page_Up,     kscrollup,      {.i = -1} },
 	{ ShiftMask,            XK_Page_Down,   kscrolldown,    {.i = -1} },
 	//{ Mod1Mask,               XK_l,           copyurl,        {.i =  0} },
-	//{ Mod1Mask,               XK_k,           kscrollup,      {.i =  1} },
-	//{ Mod1Mask,               XK_j,           kscrolldown,    {.i =  1} },
-	//{ Mod1Mask|ControlMask,   XK_k,           kscrollup,      {.i = -1} },
-	//{ Mod1Mask|ControlMask,   XK_j,           kscrolldown,    {.i = -1} },
+	{ Mod1Mask,               XK_k,           kscrollup,      {.i =  1} },
+	{ Mod1Mask,               XK_j,           kscrolldown,    {.i =  1} },
+	{ Mod1Mask|ControlMask,   XK_k,           kscrollup,      {.i = -1} },
+	{ Mod1Mask|ControlMask,   XK_j,           kscrolldown,    {.i = -1} },
 
 };
 
